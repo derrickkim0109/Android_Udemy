@@ -9,8 +9,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import java.util.concurrent.locks.ReentrantLock;
-
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -37,9 +35,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-//                CallRetrofit();
-                UpdateRetrofitData();
-            }
+                UpdateRetrofitData();            }
         });
 
     }
@@ -75,27 +71,38 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+
+
+
+
+
+
     }
 
     private void UpdateRetrofitData(){
 
+
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("")
+                .baseUrl("https://httpbin.org/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
-        // RequestAPI
+
+
         PostReqeustApi postReqeustApi = retrofit.create(PostReqeustApi.class);
 
-        PostModel postModel = new PostModel("post55", "Post Changed Succeessfullly");
+        PostModel postModel = new PostModel("post55", "PAtched!!!");
 
-        Call<PostModel> call = postReqeustApi.UpdateData(postModel);
+
+        Call<PostModel> call = postReqeustApi.PatchData(postModel);
 
         call.enqueue(new Callback<PostModel>() {
             @Override
             public void onResponse(Call<PostModel> call, Response<PostModel> response) {
-                txt.setText(response.body().getJson().getData());
+                txt.setText(response.body().getJson().getData() );
 
-                Toast.makeText(MainActivity.this, "Code: " + response.code(), Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "Code: "+response.code(), Toast.LENGTH_SHORT).show();
             }
 
             @Override
@@ -103,7 +110,11 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+
+
+
     }
+
 
 
 }
