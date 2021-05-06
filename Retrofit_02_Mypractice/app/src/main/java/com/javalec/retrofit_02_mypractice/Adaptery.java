@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
+import android.widget.RatingBar;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -37,13 +38,22 @@ public class Adaptery extends RecyclerView.Adapter<Adaptery.MyViewHolder> {
     @Override
     public void onBindViewHolder(@NonNull MyViewHolder holder, int position) {
 
-        holder.id.setText(""+ moviesList.get(position).getId());
-        holder.title.setText(moviesList.get(position).getName());
+
+        holder.title.setText(moviesList.get(position).getTitle());
+
+        // The Trick : Getting data from the nested json object
+        holder.duration.setText(moviesList.get(position).getMoreDetails().getDuration());
+        holder.category.setText(moviesList.get(position).getMoreDetails().getCategory());
+        holder.releaseDate.setText(moviesList.get(position).getMoreDetails().getRelease());
 
         // Adding Glide library to display the images
         Glide.with(mContext)
-                .load(moviesList.get(position).getImage())
+                .load(moviesList.get(position).getPoster())
                 .into(holder.img);
+
+        // Setting the rating bar value
+        // Rating bar is 5 and ratings is over 10
+        holder.ratingBar.setRating((Float.parseFloat(String.valueOf(moviesList.get(position).getRating())))/2);
     }
 
     @Override
@@ -54,17 +64,26 @@ public class Adaptery extends RecyclerView.Adapter<Adaptery.MyViewHolder> {
     public static class MyViewHolder extends RecyclerView.ViewHolder{
 
         TextView title;
-        TextView id;
+        TextView duration;
         ImageView img;
 
+
+        TextView category;
+        TextView releaseDate;
+        RatingBar ratingBar;
 
 
         public MyViewHolder(@NonNull View itemView) {
             super(itemView);
 
             title = itemView.findViewById(R.id.textView2);
-            id = itemView.findViewById(R.id.textView3);
+            duration = itemView.findViewById(R.id.duration);
             img = itemView.findViewById(R.id.imageView);
+
+            ratingBar = itemView.findViewById(R.id.ratingBar);
+            category = itemView.findViewById(R.id.category);
+            releaseDate = itemView.findViewById(R.id.releaseDate);
+
         }
     }
 }
