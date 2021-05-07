@@ -38,7 +38,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 //                CallRetrofit();
-                UpdateRetrofitData();
+//                UpdateRetrofitData();
+                PatchRetrofitData();
             }
         });
 
@@ -105,5 +106,32 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+
+    private void PatchRetrofitData(){
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl("")
+                .addConverterFactory(GsonConverterFactory.create())
+                .build();
+        // RequestAPI
+        PostReqeustApi postReqeustApi = retrofit.create(PostReqeustApi.class);
+
+        PostModel postModel = new PostModel("post55", "Patched !!");
+
+        Call<PostModel> call = postReqeustApi.PatchData(postModel);
+
+        call.enqueue(new Callback<PostModel>() {
+            @Override
+            public void onResponse(Call<PostModel> call, Response<PostModel> response) {
+                txt.setText(response.body().getJson().getData());
+
+                Toast.makeText(MainActivity.this, "Code: " + response.code(), Toast.LENGTH_LONG).show();
+            }
+
+            @Override
+            public void onFailure(Call<PostModel> call, Throwable t) {
+
+            }
+        });
+    }
 
 }
