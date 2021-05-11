@@ -32,12 +32,23 @@ public class MovieListViewModel extends ViewModel {
         return movieRepository.getMovies();
     }
 
+    public LiveData<List<MovieModel>> getMoviesPopular(){
+//        return mMovies;
+        return movieRepository.getMoviesPopular();
+    }
+
     // 3 - Calling method in view-model 03
     public void searchMovieApi(String query, int pageNumber){
         movieRepository.searchMovieApi(query,pageNumber);
     }
+    public void searchMoviePopular( int pageNumber){
+        movieRepository.searchMoviePopular(pageNumber);
+    }
 
-
+    // Page number
+    public void searchNextPage(){
+        movieRepository.searchNextPage();
+    }
 
 
 }

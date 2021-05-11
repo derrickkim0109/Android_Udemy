@@ -23,6 +23,17 @@ public interface MovieApi {
             @Query("page") int page
     );
 
+
+    // Get popular movie
+    // https://api.themoviedb.org/3/movie/popular ?api_key=52a18783ed514602a5facb15a0177e61&page=1
+    @GET("/3/movie/popular")
+    Call<MovieSearchResponse> getPopular(
+            @Query("api_key") String key,
+            @Query("page") int page
+    );
+
+
+
     // Making Search with ID.
     // https://api.themoviedb.org/3/movie/550?api_key=52a18783ed514602a5facb15a0177e61
     // Remember that movie_id= 550 is for Fight Club movie.

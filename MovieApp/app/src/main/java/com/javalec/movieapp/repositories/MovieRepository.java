@@ -8,16 +8,21 @@ import com.javalec.movieapp.request.MovieApiClient;
 
 import java.util.List;
 
-public class MovieRepository {
+public class  MovieRepository {
 
+    // ----------- //
+    // Properties  //
+    // ----------- //
     // This class is acting as repositories
-
-    private static MovieRepository instance;
-//    // Live Data
-//    private MutableLiveData<List<MovieModel>> mMovies;
+    //  Live Data
+    // private MutableLiveData<List<MovieModel>> mMovies;
     // request -> MovieApiClient로 아동.
+    private static MovieRepository instance;
 
     private MovieApiClient movieApiClient;
+
+    private String mQuery;
+    private int mPageNumber;
 
     public static MovieRepository getInstance(){
 
@@ -42,10 +47,24 @@ public class MovieRepository {
             return movieApiClient.getMovies();
     }
 
+    public LiveData<List<MovieModel>> getMoviesPopular(){
+        return movieApiClient.getMoviesPopular();
+    }
+
     // 2 - Calling the method in repository. 02
     public void searchMovieApi(String query, int pageNumber){
+        mQuery = query;
+        mPageNumber = pageNumber;
         movieApiClient.searchMoviesApi(query, pageNumber);
     }
 
+    public void searchMoviePopular( int pageNumber){
+        mPageNumber = pageNumber;
+        movieApiClient.searchMoviesPopular(pageNumber);
+    }
+
+    public void searchNextPage(){
+        searchMovieApi(mQuery, mPageNumber+1);
+    }
 
 }// END

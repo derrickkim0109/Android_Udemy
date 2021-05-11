@@ -3,30 +3,45 @@ package com.javalec.movieapp.models;
 import android.os.Parcel;
 import android.os.Parcelable;
 
+import com.google.gson.annotations.SerializedName;
+
 public class MovieModel implements Parcelable {
+
     // we need to this data pass to another activity -> implements Parse
+
     // -------------- //
     //  Properties   //
     // -------------- //
+
     // Movie Class for our movies.
     private String title;
     private String poster_path;
     private String release_date;
+
+//    @SerializedName("id")
     private int movie_id;
     private float vote_average;
     private String movie_overview;
+
+    private String original_language;
+//    private int runtime;
+
+    // For the purpose of simplicity, I will use the release_date instead of category.
+    // genres is nested json object, we will learn it later on this series.
 
     // -------------- //
     // Constructor
     // -------------- //
 
-    public MovieModel(String title, String poster_path, String release_date, int movie_id, float vote_average, String movie_overview) {
+    public MovieModel(String title, String poster_path, String release_date, int movie_id, float vote_average, String movie_overview,
+                      String original_language) {
         this.title = title;
         this.poster_path = poster_path;
         this.release_date = release_date;
         this.movie_id = movie_id;
         this.vote_average = vote_average;
         this.movie_overview = movie_overview;
+        this.original_language = original_language;
     }
     protected MovieModel(Parcel in) {
         title = in.readString();
@@ -35,6 +50,8 @@ public class MovieModel implements Parcelable {
         movie_id = in.readInt();
         vote_average = in.readFloat();
         movie_overview = in.readString();
+        original_language = in.readString();
+
     }
     public static final Creator<MovieModel> CREATOR = new Creator<MovieModel>() {
         @Override
@@ -74,9 +91,9 @@ public class MovieModel implements Parcelable {
         return movie_overview;
     }
 
-
-
-
+    public String getOriginal_language() {
+        return original_language;
+    }
 
     // Parcel
     @Override
@@ -92,5 +109,7 @@ public class MovieModel implements Parcelable {
         dest.writeInt(movie_id);
         dest.writeFloat(vote_average);
         dest.writeString(movie_overview);
+        dest.writeString(original_language);
     }
+
 }
