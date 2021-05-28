@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/realtimeLocationButton"
+        android:text="현재 위치 확인하기"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myLocation"
+        android:text="구글지도맥 내 위치"
+        />
+    <fragment
+        android:id="@+id/mapViewClass"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.javalec.google_map_real_time_location.SupportMapFragment"
+        />
+
+</LinearLayout>

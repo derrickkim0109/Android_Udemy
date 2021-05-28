@@ -130,4 +130,5 @@ public class MovieModel implements Parcelable {
                 ", original_language='" + original_language + '\'' +
                 '}';
     }
+
 }
