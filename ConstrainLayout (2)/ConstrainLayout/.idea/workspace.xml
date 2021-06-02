@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da8ee675-5ec5-42f8-b34d-7d2bab1c3235" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Mapy/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mapy/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mapy/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mapy/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mapy/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mapy/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mapy/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Mapy/app/src/main/java/com/gps/mapy/MapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Mapy/app/src/main/java/com/gps/mapy/MapsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/MovieApp_JSON/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/MovieApp_JSON/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/MovieApp_JSON/app/src/main/java/com/javalec/movieapp_json/Adaptery.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/MovieApp_JSON/app/src/main/java/com/javalec/movieapp_json/Adaptery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieApp/MovieApp_JSON/app/src/main/java/com/javalec/movieapp_json/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MovieApp/MovieApp_JSON/app/src/main/java/com/javalec/movieapp_json/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/MovieListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/MovieListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/adapters/OnMovieListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/adapters/OnMovieListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/models/MovieModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/models/MovieModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/repositories/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/repositories/MovieRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/request/MovieApiClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/java/com/javalec/movieapp/request/MovieApiClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/res/layout/movie_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Retrofit2/MovieApp/app/src/main/res/layout/movie_list_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_core_core_1_5_0_rc01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_12_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_12_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_google_android_material_material_1_4_0_beta01_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_14_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_squareup_okio_okio_1_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/markdown-navigator-enh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/markdown-navigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/androidTest/java/net/androidsquad/movieapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/AppExecutors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/MovieDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/MovieListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/adapters/MovieRecyclerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/adapters/MovieViewHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/adapters/OnMovieListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/adapters/Popular_view_holder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/models/MovieModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/repositories/MovieRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/request/MovieApiClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/request/Servicey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/response/MovieResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/response/MovieSearchResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/utils/Credentials.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/utils/MovieApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/java/net/androidsquad/movieapp/viewmodels/MovieListViewModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/drawable/fight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/drawable/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/drawable/shadow_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/drawable/transper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/layout/activity_movie_details.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/layout/item_call.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/layout/item_email.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/layout/loading_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/layout/movie_list_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/layout/popular_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/main/res/xml/network_security_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/app/src/test/java/net/androidsquad/movieapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Retrofit2/MovieApp_Teachers/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\olaai\.android\avd\Pixel_XL_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1t6DVNunQSxERpRHpT1fU3HMFHm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Socket" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1622080701551" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="ConstrainLayout.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8ee675-5ec5-42f8-b34d-7d2bab1c3235" name="Default Changelist" comment="" />
+      <created>1622080667758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622080667758</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1622085140630">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1622085140630" />
+    <state x="308" y="221" key="AndroidCreateResourceDirectoryDialog" timestamp="1622084543508">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="308" y="221" key="AndroidCreateResourceDirectoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1622084543508" />
+    <state x="307" y="220" key="AndroidCreateResourceFileDialog" timestamp="1622084553556">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="307" y="220" key="AndroidCreateResourceFileDialog/0.25.1440.875@0.25.1440.875" timestamp="1622084553556" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1622179729433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1622179729433" />
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1622089363540">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1622089363540" />
+    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1622089363539">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1622089363539" />
+    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1622089363539">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1622089363539" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1622089363539">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1622089363539" />
+  </component>
+</project>

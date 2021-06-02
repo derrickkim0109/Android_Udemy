@@ -1,0 +1,16 @@
+com/example/roomdatabase/BuildConfig.java
+ com.example.roomdatabase.BuildConfig
+com/example/roomdatabase/TodoDatabase.java
+ com.example.roomdatabase.TodoDatabase
+com/example/roomdatabase/TodoDao.java
+ com.example.roomdatabase.TodoDao
+com/example/roomdatabase/TAG.java
+ com.example.roomdatabase.TAG
+com/example/roomdatabase/Todo.java
+ com.example.roomdatabase.Todo
+com/example/roomdatabase/MainActivity.java
+ com.example.roomdatabase.MainActivity
+ com.example.roomdatabase.MainActivity$1
+ com.example.roomdatabase.MainActivity$2
+ com.example.roomdatabase.MainActivity$3
+ com.example.roomdatabase.MainActivity$InsertAsyncTask

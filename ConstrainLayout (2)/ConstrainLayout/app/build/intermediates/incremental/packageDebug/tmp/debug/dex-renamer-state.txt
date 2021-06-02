@@ -1,0 +1,4 @@
+#Fri May 28 14:25:29 KST 2021
+base.0=C\:\\Users\\olaai\\GitLab_OurCooperation\\Android_Udemy\\ConstrainLayout (2)\\ConstrainLayout\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

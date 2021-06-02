@@ -1,0 +1,12 @@
+com/example/constrainlayout/view/MainActivity.java
+ com.example.constrainlayout.view.MainActivity
+ com.example.constrainlayout.view.MainActivity$1
+ com.example.constrainlayout.view.MainActivity$2
+com/example/constrainlayout/Calc.java
+ com.example.constrainlayout.Calc
+com/example/constrainlayout/model/Calculate.java
+ com.example.constrainlayout.model.Calculate
+com/example/constrainlayout/BuildConfig.java
+ com.example.constrainlayout.BuildConfig
+com/example/constrainlayout/view_model/CalcManager.java
+ com.example.constrainlayout.view_model.CalcManager
