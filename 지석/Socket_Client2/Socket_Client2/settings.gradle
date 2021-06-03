@@ -1,0 +1,2 @@
+rootProject.name = "Socket_Client"
+include ':app'

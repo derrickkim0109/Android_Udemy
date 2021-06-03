@@ -1,0 +1,2 @@
+rootProject.name = "Socket_Tablet_Server"
+include ':app'
